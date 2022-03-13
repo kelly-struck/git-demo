@@ -1,0 +1,15 @@
+hello git
+git config --global user,name zx
+git config --global user,name zx
+git config --global user,name zx
+git config --global user,name zx
+git config --global user,name zx
+git config --global user,name zx
+git config --global user,name zx
+git config --global user,name zx
+git config --global user,name zx
+git config --global user,name zx
+git config --global user,name zx
+git config --global user,name zx
+git config --global user,name zx
+git config --global user,name zx
